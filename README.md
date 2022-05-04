@@ -1,1 +1,1 @@
-# KU-team-project-01
+# University Guide Voice Recognition Speaker Project
